@@ -1,0 +1,9 @@
+Any software development project benefits from having a Version Control System in place to manage the files associated with the project. Although there are a variety of version control systems available, Git is by far the most popular. A 2018 survey by StackOverflow found that almost 90% of all professional software developers use Git as their version control system of choice, while less than 4% confessed to not using a version control system at all.
+
+Git is simply a program like any other you might install on your computer. It can be installed on Linux, macOS or Windows and can be used by issuing commands through a terminal, a dedicated GUI or by using an IDE which has the Git commands integrated into it.
+
+Git provides a host of useful tools to development teams, regardless of the size of the team or the scope of the project. This course will introduce to you some of the most powerful and useful applications of Git. For now, let’s focus on the two key benefits we gain from incorporating Git into our development workflow.
+
+Git can provide an extremely detailed history of every change made to all the project’s files. This allows us to review changes, visualise the history using a graph view or revert our work to an earlier state.
+
+Git can facilitate distributed collaborative working. A range of options permits multiple developers to simultaneously work on the same project without impeding each other’s progress. Git can help us deal with the conflicts that might arise when we are working on the same set of files.
